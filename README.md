@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/dama360/dama360.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### 03.11.2020: Ausbau der Seite - Ich fange an zu verstehen.
+
+Ich fange an zu verstehen ... wie GitHub funktioniert, wie ich diese Seite mit Inhalt füllen kann und was daraus mal werden kann.
+
+### 02.11.2020: Beginn
+
+Habe heute diese Seite erstellt. Großartig ist anders, aber das wird noch.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
