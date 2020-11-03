@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Ich fange an zu verstehen ... wie GitHub funktioniert, wie ich diese Seite mit Inhalt füllen kann und was daraus mal werden kann.
 
-![](name-of-giphy.gif)
+![](Freude.gif)
 
 ### 02.11.2020: Beginn
 
